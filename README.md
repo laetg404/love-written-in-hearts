@@ -1,13 +1,27 @@
 
 # ❤️ Love Written in Hearts
 
-*A heart made of little messages, written for Valbb.*
+*A heart made of little messages, written for Val.*
 
 A small Python project that uses Turtle Graphics to draw a colorful heart-shaped composition.
 
 By combining mathematical equations, rainbow colors, and repeated text, this script creates a visual representation of a simple message:
 
 **Te quiero Valbb. ♡**
+
+---
+
+## 💗 Graphical Representation
+
+### The final result
+
+![Heart made for Val](graphical-representation/heart.png)
+
+### 🎬 Animation preview
+
+Watch the script bring the heart to life:
+
+[▶ Watch the animation — Valbb.mp4](graphical-representation/Valbb.mp4)
 
 ---
 
@@ -45,12 +59,18 @@ The result is a colorful heart made entirely of words.
 love-written-in-hearts/
 │
 ├── main.py
-└── README.md
+├── README.md
+│
+└── graphical-representation/
+    ├── heart.png
+    └── Valbb.mp4
 ```
 
 | File | Description |
 |---|---|
 | `main.py` | Main script responsible for generating the heart composition. |
+| `graphical-representation/heart.png` | Screenshot of the final heart illustration. |
+| `graphical-representation/Valbb.mp4` | Video showing the script running and drawing the heart. |
 | `README.md` | Project documentation. |
 
 ---
